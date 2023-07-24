@@ -33,7 +33,8 @@ Browser automation framework, and end-to-end testing ecosystems.
 - [Functionize](https://www.functionize.com/). AI-powered tests, no selectors used.
 - [Autify](https://autify.com/). No-code end to end testing platform for QA teams.
 - [LambdaTest](https://www.lambdatest.com/). End-to-end testing cloud.
-- [Browserstack](https://www.browserstack.com/). 
+- [Browserstack](https://www.browserstack.com/).
+- [Mabl](https://www.mabl.com/). Low-code test automation platform.
 
 ## Test management
 
