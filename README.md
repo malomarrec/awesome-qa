@@ -21,6 +21,7 @@ Browser automation framework, and end-to-end testing ecosystems.
 - [Chromatic](https://www.chromatic.com/). Visual and interaction tests for Storybook.
 - [Loki](https://loki.js.org/). Open source visual regression testing framework.
 - [Reg Suit](https://reg-viz.github.io/reg-suit/). Visual regression testing tool.
+- [Lost Pixel](https://lost-pixel.com/)Use your storybook, app, and marketing page to generate your testing suite with little work.
 
 ## Session replay testing
 
