@@ -41,6 +41,8 @@ Browser automation framework, and end-to-end testing ecosystems.
 - [LambdaTest](https://www.lambdatest.com/). End-to-end testing cloud.
 - [Browserstack](https://www.browserstack.com/).
 - [Mabl](https://www.mabl.com/). Low-code test automation platform.
+- [Sauce Labs](https://saucelabs.com/)
+- [Smart Bear](https://smartbear.com/)
 
 ## Test management
 
