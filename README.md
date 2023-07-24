@@ -1,5 +1,5 @@
 <head>
- <link rel="icon" href="/gear.svg type="image/svg+xml">
+ <link rel="icon" href="/gear.svg" type="image/svg+xml">
 </head>
 
 # awesome-qa
