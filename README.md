@@ -2,11 +2,9 @@
  <link rel="icon" href="/gear.svg" type="image/svg+xml">
 </head>
 
-> Contributions welcome!
-
-# awesome-qa
 A curated list of QA and end-to-end testing tools.
 
+> Contributions welcome!
 
 ## End to end testing frameworks
 
