@@ -20,6 +20,7 @@ Browser automation framework, and end-to-end testing ecosystems.
 - [Percy](https://percy.io/). Visual review and visual regression testing.
 - [Chromatic](https://www.chromatic.com/). Visual and interaction tests for Storybook.
 - [Loki](https://loki.js.org/). Open source visual regression testing framework.
+- [Reg Suit](https://reg-viz.github.io/reg-suit/). Visual regression testing tool.
 
 ## Session replay testing
 
