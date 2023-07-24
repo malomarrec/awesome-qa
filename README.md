@@ -22,6 +22,7 @@ Browser automation framework, and end-to-end testing ecosystems.
 - [Loki](https://loki.js.org/). Open source visual regression testing framework.
 - [Reg Suit](https://reg-viz.github.io/reg-suit/). Visual regression testing tool.
 - [Lost Pixel](https://lost-pixel.com/). Open source visual regression testing.
+- [Argos CI](https://argos-ci.com/)
 
 ## Session replay testing
 
