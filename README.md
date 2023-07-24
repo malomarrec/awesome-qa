@@ -1,3 +1,7 @@
+<head>
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.svg">
+</head>
+
 # awesome-qa
 A curated list of QA and end-to-end testing tools.
 
