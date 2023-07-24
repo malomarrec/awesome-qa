@@ -1,5 +1,5 @@
 <head>
- <link rel="shortcut icon" type="image/x-icon" href="favicon.svg">
+ <link rel="shortcut icon" type="image/x-icon" href="gear.svg">
 </head>
 
 # awesome-qa
