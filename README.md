@@ -1,5 +1,6 @@
 <head>
  <link rel="icon" href="/gear.svg" type="image/svg+xml">
+ <script defer data-domain="malomarrec.github.io/awesome-qa" src="https://plausible.io/js/script.js"></script>
 </head>
 
 A curated list of QA and end-to-end testing tools.
