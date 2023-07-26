@@ -23,17 +23,17 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [Argos CI](https://argos-ci.com/).
 
 ## Load Testing
-- [K6](https://k6.io/). Open source load testing framework built with Go and JavaScript. Highly performant, extensible to support other types of testing.
-- [Artillery](https://www.artillery.io/). Open source load testing framework built with NodeJs. Enterprise platform availble.
+- [K6](https://k6.io/). Open source load testing framework built with Go and JavaScript. Highly performant, and extensible to support other types of testing.
+- [Artillery](https://www.artillery.io/). Open source load testing framework built with NodeJs. Enterprise platform available.
 - [JMeter](https://jmeter.apache.org/). Foundational load testing platform with GUI. Written in Java. In development since 1998.
-
+- [Gatling](https://github.com/gatling/gatling). Open source load testing tool with a convenient DSL.
 ## Session Replay Testing
 
 - [Meticulous](https://meticulous.ai/). Automatically catch UI bugs on your web application by replaying user traffic. Testing out of the box with no maintenance burden.
 
 ## AI-based Testing
 
-- [TestRigor](https://testrigor.com/). Describe end to end tests in natural language.
+- [TestRigor](https://testrigor.com/). Describe end-to-end tests in natural language.
 - [TestersAI](https://www.testersai.com/). Mysterious claims to be "converting the brains of the best testers into AI".
   
 ## Enterprise Platforms
@@ -41,7 +41,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [Applitools](https://applitools.com/). Test automation platform powered by visual AI.
 - [Testim](https://www.testim.io/). AI test automation plaform. Pioneers in self-healing tests.
 - [Functionize](https://www.functionize.com/). AI-powered tests, no selectors used.
-- [Autify](https://autify.com/). No-code end to end testing platform for QA teams.
+- [Autify](https://autify.com/). No-code end-to-end testing platform for QA teams.
 - [LambdaTest](https://www.lambdatest.com/). End-to-end testing cloud.
 - [Browserstack](https://www.browserstack.com/).
 - [Mabl](https://www.mabl.com/). Low-code test automation platform.
