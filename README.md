@@ -1,6 +1,4 @@
-
-
-A curated list of QA and end-to-end testing tools.
+A curated list of QA and end-to-end testing tools. Join https://aiinqa.substack.com/?r=3np3p&utm_campaign=pub&utm_medium=web for a newsletter about AI in QA!
 
 > Contributions welcome!
 
