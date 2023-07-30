@@ -6,16 +6,16 @@ A curated list of QA and end-to-end testing tools. [![Awesome](https://awesome.r
 
 Browser automation frameworks and end-to-end testing ecosystems.
 
-- [Selenium](https://www.selenium.dev/). Foundational end-to-end testing and browser automation framework. In development since 2004.
-- [Cypress](https://www.cypress.io/). Open source component and end-to-end testing framework.
-- [Playwright](https://playwright.dev/). Open source end-to-end testing framework. Auto-wait features to minimize or eliminate the need for artificial timeouts. Built by the Puppeteer team.
-- [Nightwatch](https://nightwatchjs.org/). Open source end-to-end testing framework, powered by NodeJs.
+- [Selenium](https://www.selenium.dev/). Foundational end-to-end testing and browser automation framework. In development since 2004. ![Selenium stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+- [Cypress](https://www.cypress.io/). Open source component and end-to-end testing framework. ![Cypress stars](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+- [Playwright](https://playwright.dev/). Open source end-to-end testing framework. Auto-wait features to minimize or eliminate the need for artificial timeouts. Built by the Puppeteer team. ![Playwright stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+- [Nightwatch](https://nightwatchjs.org/). Open source end-to-end testing framework, powered by NodeJs. ![Nightwatch stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## Visual Regression Testing
 
 - [Percy](https://percy.io/). Visual review and visual regression testing.
 - [Chromatic](https://www.chromatic.com/). Visual and interaction tests for Storybook.
-- [Loki](https://loki.js.org/). Open source visual regression testing framework.
+- [Loki](https://loki.js.org/). Open source visual regression testing framework. ![Loki stars](https://img.shields.io/github/stars/oblador/loki?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 - [Reg Suit](https://reg-viz.github.io/reg-suit/). Visual regression testing tool.
 - [Lost Pixel](https://lost-pixel.com/). Open source visual regression testing.
 - [Argos CI](https://argos-ci.com/).
