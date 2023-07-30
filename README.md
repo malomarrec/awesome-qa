@@ -1,7 +1,5 @@
 A curated list of QA and end-to-end testing tools. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Contributions welcome!
-
 ## End-to-End Testing Frameworks
 
 Browser automation frameworks and end-to-end testing ecosystems.
