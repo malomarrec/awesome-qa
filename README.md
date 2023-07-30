@@ -1,4 +1,4 @@
-A curated list of QA and end-to-end testing tools.
+A curated list of QA and end-to-end testing tools. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Contributions welcome!
 
