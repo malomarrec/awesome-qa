@@ -8,6 +8,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [Cypress](https://www.cypress.io/). Open source component and end-to-end testing framework. ![Cypress stars](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 - [Playwright](https://playwright.dev/). Open source end-to-end testing framework. Auto-wait features to minimize or eliminate the need for artificial timeouts. Built by the Puppeteer team. ![Playwright stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 - [Nightwatch](https://nightwatchjs.org/). Open source end-to-end testing framework, powered by NodeJs. ![Nightwatch stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+- [WebdriverIO](https://webdriver.io/). Open source component and end-to-end testing framework, powered by NodeJs. ![Nightwatch stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## Visual Regression Testing
 
