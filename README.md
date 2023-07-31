@@ -1,7 +1,3 @@
-<head>
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
-</head>
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) A curated list of QA and end-to-end testing tools.
 
 <html>
