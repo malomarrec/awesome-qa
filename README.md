@@ -4,8 +4,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) A curated list of QA and end-to-end testing tools.
 
+<html>
 <a class="github-button" href="https://github.com/malomarrec/awesome-qa" data-size="large" data-show-count="true" aria-label="Star malomarrec/awesome-qa on GitHub">Star</a>
-
+</html>html
 
 ## End-to-End Testing Frameworks
 
