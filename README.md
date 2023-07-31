@@ -1,4 +1,6 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) A curated list of QA and end-to-end testing tools.
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+A curated list of QA and end-to-end testing tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re).
 
 <html>
 <a class="github-button" href="https://github.com/malomarrec/awesome-qa" data-size="large" data-show-count="true" aria-label="Star malomarrec/awesome-qa on GitHub">Star</a>
