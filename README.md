@@ -11,9 +11,10 @@ A curated list of QA and end-to-end testing tools [![Awesome](https://awesome.re
 Browser automation frameworks and end-to-end testing ecosystems.
 
 - [Selenium](https://www.selenium.dev/). Foundational end-to-end testing and browser automation framework. In development since 2004. ![Selenium stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-- [Cypress](https://www.cypress.io/). Open source component and end-to-end testing framework. ![Cypress stars](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+- [Cypress](https://www.cypress.io/). Open-source component and end-to-end testing framework. ![Cypress stars](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 - [Playwright](https://playwright.dev/). Open source end-to-end testing framework. Auto-wait features to minimize or eliminate the need for artificial timeouts. Built by the Puppeteer team. ![Playwright stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 - [Nightwatch](https://nightwatchjs.org/). Open source end-to-end testing framework, powered by NodeJs. ![Nightwatch stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+- [CodeceptJS](https://codecept.io/) E2E testing with a special unificated BDD-style syntax for different frameworks.
 
 ## Visual Regression Testing
 
@@ -56,5 +57,6 @@ Browser automation frameworks and end-to-end testing ecosystems.
 
 - [Xray](https://www.getxray.app/).
 - [Testrail](https://www.testrail.com/). Test management and orchestration platform.
+- [Testomatio](https://testomat.io/) Modern TCMS allows sync of manual and automated tests in one place.
 - [Tesults](https://www.tesults.com/). Web-based test reporting and case management platform.
 - [Allure](https://qameta.io/allure-report/). Open-source reporting platform with self-host and enterprise options. ![Allure stars](https://img.shields.io/github/stars/allure-framework/allure2?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
