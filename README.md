@@ -32,6 +32,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 
 ## Session Replay Testing
 
+- [BitDive](https://bitdive.io/). Zero-code API testing for Java/Kotlin. Captures runtime API traffic and replays scenarios with auto-generated mocks.
 - [Meticulous](https://meticulous.ai/). Automatically catch UI bugs on your web application by replaying user traffic. Testing out of the box with no maintenance burden.
 
 ## AI-based Testing
