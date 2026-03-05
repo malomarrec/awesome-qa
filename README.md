@@ -58,3 +58,4 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [Testrail](https://www.testrail.com/). Test management and orchestration platform.
 - [Tesults](https://www.tesults.com/). Web-based test reporting and case management platform.
 - [Allure](https://qameta.io/allure-report/). Open-source reporting platform with self-host and enterprise options. ![Allure stars](https://img.shields.io/github/stars/allure-framework/allure2?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+- [TestDino](https://testdino.com/). A test reporting, intelligence, and management platform that turns noisy automated runs into centralized dashboards, AI-classified failures, and scheduled reports so teams can understand, act on, and govern their test suites with far less manual effort.
