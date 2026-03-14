@@ -54,6 +54,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 
 ## Test Case Management and Reporting
 
+- [Gwirian](https://www.gwirian.com/). Open source BDD test management platform for QA teams. Create and organize scenarios in Given/When/Then format, track execution status, with full-text search, dashboards, and a modern UI. Self-host for free or use the hosted app.
 - [Xray](https://www.getxray.app/).
 - [Testrail](https://www.testrail.com/). Test management and orchestration platform.
 - [Tesults](https://www.tesults.com/). Web-based test reporting and case management platform.
