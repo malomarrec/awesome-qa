@@ -1,4 +1,6 @@
+<html>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+</html>
 
 A curated list of QA and end-to-end testing tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re).
 
@@ -34,6 +36,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 ## Session Replay Testing
 
 - [Meticulous](https://meticulous.ai/). Automatically catch UI bugs on your web application by replaying user traffic. Testing out of the box with no maintenance burden.
+- [BugBug](https://bugbug.io). A codeless test automation tool designed for SaaS teams to automate E2E testing of web apps and websites.
 
 ## AI-based Testing
 
