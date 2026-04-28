@@ -17,6 +17,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 
 ## Visual Regression Testing
 
+- [Happo](https://happo.io). Cross-browser screenshot and visual regression testing service, with integrations for popular tools such as Storybook, Playwright, and Cypress.
 - [Percy](https://percy.io/). Visual review and visual regression testing.
 - [Chromatic](https://www.chromatic.com/). Visual and interaction tests for Storybook.
 - [Loki](https://loki.js.org/). Open source visual regression testing framework. ![Loki stars](https://img.shields.io/github/stars/oblador/loki?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
