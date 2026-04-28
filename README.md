@@ -10,6 +10,13 @@ A curated list of QA and end-to-end testing tools [![Awesome](https://awesome.re
 
 ## End-to-End Testing Frameworks
 
+Playwright utilities:
+
+- [heal-playwright-tracer](https://github.com/heal-dev/heal-playwright-tracer): open-source statement-level Playwright tracer, that enriches the trace to allow for easy test interpretation with agents.
+- Your utility here!
+
+## End-to-End Testing Frameworks
+
 Browser automation frameworks and end-to-end testing ecosystems.
 
 - [Selenium](https://www.selenium.dev/). Foundational end-to-end testing and browser automation framework. In development since 2004. ![Selenium stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
