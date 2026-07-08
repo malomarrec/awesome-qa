@@ -53,6 +53,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [TestRigor](https://testrigor.com/). Describe end-to-end tests in natural language.
 - [TestersAI](https://www.testersai.com/). Mysterious claims to be "converting the brains of the best testers into AI".
 - [Octomind](https://www.octomind.dev/). Auto-generated, run and maintained Playwright tests with AI-assisted test case discovery.
+- [BrowserBash](https://github.com/PramodDutta/browserbash). Open-source CLI: describe browser tests in plain English, an AI agent runs them in a real Chrome and returns deterministic assertions + CI exit codes. Ships an MCP server; runs on free local models.
   
 ## Enterprise Platforms
 
