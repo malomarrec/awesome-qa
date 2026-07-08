@@ -53,6 +53,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [TestRigor](https://testrigor.com/). Describe end-to-end tests in natural language.
 - [TestersAI](https://www.testersai.com/). Mysterious claims to be "converting the brains of the best testers into AI".
 - [Octomind](https://www.octomind.dev/). Auto-generated, run and maintained Playwright tests with AI-assisted test case discovery.
+- [QASkills.sh](https://qaskills.sh). Open registry of 400+ QA testing skills that AI coding agents (Claude Code, Cursor, and 30+ others) install and follow via the qaskills CLI.
   
 ## Enterprise Platforms
 
