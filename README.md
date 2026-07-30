@@ -25,6 +25,10 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [Nightwatch](https://nightwatchjs.org/). Open source end-to-end testing framework, powered by NodeJs. ![Nightwatch stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 - [CodeceptJS](https://codecept.io/) E2E testing with a special unificated BDD-style syntax for different frameworks.
 
+## Website QA and Launch Readiness
+
+- [ProofDesk Launch Check](https://github.com/SpaleRuby/proofdesk-launch-check). Open-source zero-dependency CLI and GitHub Action that checks public launch pages for HTTP status, metadata, indexability, same-origin links, robots.txt, and sitemaps.
+
 ## Visual Regression Testing
 
 - [Happo](https://happo.io). Cross-browser screenshot and visual regression testing service, with integrations for popular tools such as Storybook, Playwright, and Cypress.
