@@ -66,6 +66,10 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [Sauce Labs](https://saucelabs.com/).
 - [Smart Bear](https://smartbear.com/).
 
+## Test Data & Account Verification
+
+- [sms-florin](https://flo-voice1.com). Rents real UK phone numbers (physical GOIP hardware on EE/Three, not a reseller API) to receive SMS/OTP codes programmatically — useful for CI/QA suites that need to test WhatsApp, Telegram, Google, Discord or other SMS-verification flows without burning a personal number. REST API + [npm SDK](https://github.com/flovoice53-tech/sms-florin-sdk).
+
 ## Test Case Management and Reporting
 
 - [Xray](https://www.getxray.app/).
