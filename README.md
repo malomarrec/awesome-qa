@@ -35,6 +35,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [Reg Suit](https://reg-viz.github.io/reg-suit/). Visual regression testing tool. ![Reg suit stars](https://img.shields.io/github/stars/reg-viz/reg-suit?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 - [Lost Pixel](https://lost-pixel.com/). Open source visual regression testing. ![Lost pixel stars](https://img.shields.io/github/stars/lost-pixel/lost-pixel?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 - [Argos CI](https://argos-ci.com/). ![Argos CI stars](https://img.shields.io/github/stars/argos-ci/argos?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+- [Sherlo](https://sherlo.io). Visual regression testing for React Native apps on iOS and Android simulators, with Storybook integration.
 
 ## Load Testing
 - [K6](https://k6.io/). Open source load testing framework built with Go and JavaScript. Highly performant, and extensible to support other types of testing. ![k6 stars](https://img.shields.io/github/stars/grafana/k6?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
