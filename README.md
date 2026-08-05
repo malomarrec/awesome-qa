@@ -53,6 +53,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [TestRigor](https://testrigor.com/). Describe end-to-end tests in natural language.
 - [TestersAI](https://www.testersai.com/). Mysterious claims to be "converting the brains of the best testers into AI".
 - [Octomind](https://www.octomind.dev/). Auto-generated, run and maintained Playwright tests with AI-assisted test case discovery.
+- [Kane CLI](https://www.testmuai.com/kane-cli/). Natural-language browser tests from the terminal, returning pass/fail with shareable run evidence. From TestMu AI (formerly LambdaTest).
   
 ## Enterprise Platforms
 
