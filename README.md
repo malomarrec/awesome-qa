@@ -53,6 +53,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [TestRigor](https://testrigor.com/). Describe end-to-end tests in natural language.
 - [TestersAI](https://www.testersai.com/). Mysterious claims to be "converting the brains of the best testers into AI".
 - [Octomind](https://www.octomind.dev/). Auto-generated, run and maintained Playwright tests with AI-assisted test case discovery.
+- [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark). Longitudinal evaluation and immutable evidence for agent runs: each candidate executes in a private fresh-repository workspace, is evaluated with ordered deterministic and/or LLM profiles, and retains workspace receipt and repository manifest hashes with evaluator provenance.
   
 ## Enterprise Platforms
 
