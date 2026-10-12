@@ -60,6 +60,7 @@ Browser automation frameworks and end-to-end testing ecosystems.
 - [Testim](https://www.testim.io/). AI test automation plaform. Pioneers in self-healing tests.
 - [Functionize](https://www.functionize.com/). AI-powered tests, no selectors used.
 - [Autify](https://autify.com/). No-code end-to-end testing platform for QA teams.
+- [Endtest](https://endtest.io/). Agentic AI test automation platform for web and mobile applications, with autonomous test generation, cross-browser execution, and enterprise features including SSO and role-based access control.
 - [LambdaTest](https://www.lambdatest.com/). End-to-end testing cloud.
 - [Browserstack](https://www.browserstack.com/).
 - [Mabl](https://www.mabl.com/). Low-code test automation platform.
