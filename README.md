@@ -13,6 +13,7 @@ A curated list of QA and end-to-end testing tools [![Awesome](https://awesome.re
 Playwright utilities:
 
 - [heal-playwright-tracer](https://github.com/heal-dev/heal-playwright-tracer): open-source statement-level Playwright tracer, that enriches the trace to allow for easy test interpretation with agents.
+- [Keploy mock](https://keploy.io/docs/running-keploy/mock-your-tests/): network-layer mocking for existing Playwright and Jest suites with no SDK; records outgoing dependency calls and scopes the mocks per Playwright worker.
 - Your utility here!
 
 ## End-to-End Testing Frameworks
