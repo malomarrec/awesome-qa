@@ -13,6 +13,7 @@ A curated list of QA and end-to-end testing tools [![Awesome](https://awesome.re
 Playwright utilities:
 
 - [heal-playwright-tracer](https://github.com/heal-dev/heal-playwright-tracer): open-source statement-level Playwright tracer, that enriches the trace to allow for easy test interpretation with agents.
+- [Maily](https://github.com/stormsia/maily) - Open-source disposable email gateway and Python SDK with 1-line OTP verification extraction for E2E workflows.
 - Your utility here!
 
 ## End-to-End Testing Frameworks
