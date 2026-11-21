@@ -8,7 +8,7 @@ A curated list of QA and end-to-end testing tools [![Awesome](https://awesome.re
 <a class="github-button" href="https://github.com/malomarrec/awesome-qa" data-size="large" data-show-count="true" aria-label="Star malomarrec/awesome-qa on GitHub">Star</a>
 </html>
 
-## End-to-End Testing Frameworks
+## Playwright Utilities
 
 Playwright utilities:
 
